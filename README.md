@@ -1,5 +1,5 @@
 
-# Cezerin - Ecommerce Progressive Web Apps
+
 React and Node.js based eCommerce platform forked from [Cezerin](https://cezerin.com/). 
 
 ### Requirements
