@@ -9,9 +9,9 @@ import HeadMenu from './headMenu'
 
 const Fragment = React.Fragment;
 
-const Logo = ({ onClick }) => (
+const Logo = ({ src, onClick, alt }) => (
   <NavLink className="logo-image" to="/" onClick={onClick}>
-    <img src="/assets/images/logo.png" />
+    <img src={src} alt={alt} />
   </NavLink>
 )
 
