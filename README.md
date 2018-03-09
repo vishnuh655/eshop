@@ -1,4 +1,6 @@
-## Installation
+
+# Cezerin - Ecommerce Progressive Web Apps
+React and Node.js based eCommerce platform forked from [Cezerin](https://cezerin.com/). 
 
 ### Requirements
 * NodeJS >= 8
@@ -10,8 +12,8 @@
 
 
 ```shell
-git clone https://github.com/cezerin/cezerin.git cezerin
-cd cezerin
+git clone https://github.com/vishnuh655/eshop.git
+cd eshop
 npm install
 npm run build
 npm start
@@ -74,13 +76,3 @@ Then open <http://localhost:3000> to see your app.
 ## Documentation
 
 [Documentation](https://github.com/cezerin/cezerin/tree/master/docs)
-
-
-## Contributing
-
-If you can, please contribute by reporting issues, discussing ideas, or submitting pull requests with patches and new features. We do our best to respond to all issues and pull requests within a day or two, and make patch releases to npm regularly.
-
-
-## Licence
-
-This software is provided free of charge and without restriction under the MIT License
